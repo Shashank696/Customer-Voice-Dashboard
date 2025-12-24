@@ -1,0 +1,14 @@
+# Ignore Data Files (Too large for GitHub)
+*.csv
+data/
+
+# Ignore Python System Files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore Virtual Environments
+venv/
+env/
+.env

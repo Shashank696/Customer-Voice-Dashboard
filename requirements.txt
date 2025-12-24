@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+sentence-transformers
+umap-learn
+hdbscan
+plotly
